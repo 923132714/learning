@@ -14,11 +14,13 @@
 	       		* 单链表oneWay_LinkedList
 	       		* 顺序栈sequence_stack
 			* 循环队列circular_queue
+			* 单链队列oneWay_LinkedQueue
 		* [程序解析](#程序解析)     
 			* 顺序表
 			* 单链表
 			* 顺序栈
 			* 循环队列
+			* 单链队列
 * [汇编语言](#汇编语言)  
 
 # 数据结构
@@ -36,6 +38,7 @@
 	* 顺序栈括号匹配的检验parentheses_match
 	* 顺序栈表达式求值expression_evaluation
 4. 循环队列circular_queue
+5. 单链队列oneWay_LinkedQueue
 
 ### 程序解析
 
@@ -46,6 +49,7 @@
 	* [顺序栈括号匹配的检验](http://blog.csdn.net/qq923132714/article/details/78677281 "顺序栈括号匹配的检验解析")
 	* [顺序栈表达式求值](http://blog.csdn.net/qq923132714/article/details/78667431 "顺序栈表达式求值解析")
 4. [循环队列](http://blog.csdn.net/qq923132714/article/details/78710334 "循环队列解析") 
+5. [单链队列](http://blog.csdn.net/qq923132714/article/details/78711865 "单链队列解析") 
 
 #汇编语言
 
